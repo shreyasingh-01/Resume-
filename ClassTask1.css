@@ -1,0 +1,196 @@
+.maindiv{
+    background-color: rgb(242, 241, 248);
+    width:50vw;
+    height: 150vh;
+    margin: 225px auto;
+    max-height: 500px auto;
+    display:flexbox;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.lefttop{
+    background-color: black;
+    color: white;
+    width: 20vw;
+    height: 80vh;
+    position: relative;
+    /* width: 100%;*/
+     max-width: 450px;
+    /*margin-left: 300px;*/
+    text-align: justify;
+}
+.image {
+   display: block; 
+    width: 100%;
+    height: 40%;
+  }
+  
+
+h1{
+    background-color: rgb(196, 196, 86);
+    color: black;
+    height: 25px;
+    width: 150px;
+    margin-left: 65px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 20px;
+
+  }
+  h2{
+    margin-left: 25px;
+    font-size: 25px;
+  }
+  .hr {
+    border: 3px solid rgb(206, 206, 58);
+    border-radius: 4px; 
+    margin-left: 25px;
+    margin-right: 250px;
+    margin-top: -10px;
+  }
+  .educationdetails{
+    color: white;
+    text-align: left;
+    margin-left: 30px;
+  }
+  /* left top div is completed */
+.leftbottom{
+    background-color: rgb(209, 208, 208);
+    color: black;
+    width: 20vw;
+    height: 70vh;
+    float: inline-start; 
+   position: relative;
+    
+}
+
+label{
+    display: flex;
+    justify-content: last baseline;
+    margin-left: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+progress {
+    accent-color:yellow;
+
+  }
+  progress[value] {
+    width: 125px;
+    height: 20px;
+  }
+  .icons{
+    background-color: rgb(250, 250, 54);
+    font-size: 40px;
+    height: 35%;
+    width: 50px;
+    margin-bottom: 10%;
+    margin-top: 15%;
+    margin-left: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.email{
+  width: 210px;
+  height: 170px;
+  margin-left: 85px;
+  margin-right: 0%;
+  margin-top: -210px;
+  display: block;
+}
+#phone{
+  font-size: larger;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.righttop{
+    width: 30vw;
+    height: 60vh;
+    float: right;
+    margin-top: -590px;
+
+    background-color: rgb(206, 205, 205);
+    font-size: 15px;;
+    position: relative;
+    text-align: justify;
+    display: block;
+
+
+}
+
+.heading{
+    font-size: 45px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  #UI{
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+        background-color: rgb(196, 196, 86);
+        height: 25px;
+        width: 150px;
+        margin-left: 25px;
+        margin-top: -35px;
+        text-align: center;
+       
+      
+    
+  }
+  .hr1{
+    border: 3px solid rgb(236, 236, 8);
+    border-radius: 6px;
+    margin-left: 25px;
+    margin-right: 390px;
+    margin-top: -2%;
+  }
+  #info{
+    margin-left: 25px;
+    font-size: 20px;
+    padding-right: 10px;
+  }
+
+.rightbottom{
+    background-color: rgb(253, 252, 254);
+    width: 30vw;
+    height: 90vh;
+  float: right;
+    margin-top: -149px;
+    text-align: justify;
+    padding-top: 1px;
+}
+h5{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 25px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+   
+} 
+p{
+   font-size: medium;
+   padding-left: 10px;
+   padding-right: 20px;
+   margin-left: 18px;
+
+}
+.refer{
+    display: flex;
+    justify-content: space-between;
+}
+.lasticons{
+  
+  display: flex;
+  justify-content: space-between;
+}
+.fa-sharp{
+  font-size: 40px;
+}
+.fa-solid{
+  font-size: 40px;
+}
+
